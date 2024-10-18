@@ -1,0 +1,17 @@
+{
+  "name": "backend-youtube",
+  "version": "1.0.0",
+  "description": "this is my advancement in learning backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "youtube",
+    "advance"
+  ],
+  "author": "Priyal Gupta",
+  "license": "ISC"
+}
